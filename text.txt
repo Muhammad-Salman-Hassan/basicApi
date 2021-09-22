@@ -1,0 +1,1 @@
+mongodb+srv://<root>:<salman>@cluster0.5tzfl.mongodb.net/webProject?retryWrites=true&w=majority
